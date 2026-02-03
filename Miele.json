@@ -1,0 +1,51 @@
+{
+  "anno_riferimento": 2022,
+  "lista_apiari": [
+    {
+      "apicoltori": [
+        {
+          "id": 1,
+          "nominativo": "Carlo Papini"
+        },
+        {
+          "id": 2,
+          "nominativo": "Diego Verdi"
+        }
+      ],
+      "numero_arnie": 15,
+      "posizione": {
+        "comune": "Zogno",
+        "provincia": "BG",
+        "regione": "Lombardia"
+      },
+      "produzione": {
+        "denominazione": "Miele Millefiori",
+        "tipologia": "Identità Nazionale",
+        "quantita_kg": 100
+      }
+    },
+    {
+      "apicoltori": [
+        {
+          "id": 3,
+          "nominativo": "Anna Montana"
+        },
+        {
+          "id": 4,
+          "nominativo": "Sergio Onorio"
+        }
+      ],
+      "numero_arnie": 10,
+      "posizione": {
+        "comune": "Montalcino",
+        "provincia": "SI",
+        "regione": "Toscana"
+      },
+      "produzione": {
+        "denominazione": "Miele della Lunigiana",
+        "tipologia": "DOP",
+        "quantita_kg": 120
+      }
+    }
+  ]
+}
