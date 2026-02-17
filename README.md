@@ -12,11 +12,6 @@ Applicazione Java per la lettura di dati JSON relativi ad apiari,
 apicoltori e produzione di miele tramite <strong>Gson</strong>.
 </p>
 
-<p style="text-align:center;">
-  <img src="https://img.shields.io/badge/Java-8%2B-orange" />
-  <img src="https://img.shields.io/badge/Gson-2.10.1-brightgreen" />
-</p>
-
 <hr>
 
 <h2>📌 Descrizione</h2>
